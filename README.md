@@ -24,3 +24,14 @@ divide_Numbers(10, 2);  //  Valid division
 divide_Numbers(10, 0); // Division by zero
 divide_Numbers(10, '2'); // Invalid divisor
 
+**Sample Output:**
+
+"Result:"
+5
+"Cleanup code executed."
+"Error:"
+"Invalid divisor. Cannot divide by zero."
+"Cleanup code executed."
+"Error:"
+"Invalid arguments. Both arguments should be numbers."
+"Cleanup code executed."
